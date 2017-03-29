@@ -27,9 +27,8 @@ PRODUCT_COPY_FILES += \
     bionic/libc/zoneinfo/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := natrium
 PRODUCT_NAME := omni_natrium
+PRODUCT_DEVICE := natrium
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Mi 5s Plus
+PRODUCT_MODEL := MI 5s Plus
 PRODUCT_MANUFACTURER := Xiaomi
-
